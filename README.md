@@ -58,4 +58,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
