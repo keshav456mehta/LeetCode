@@ -7,10 +7,12 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -45,6 +48,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -54,10 +58,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -66,4 +72,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
