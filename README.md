@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keshav456mehta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
