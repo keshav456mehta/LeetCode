@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/keshav456mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/keshav456mehta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/keshav456mehta/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav456mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
