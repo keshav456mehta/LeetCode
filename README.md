@@ -25,6 +25,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/keshav456mehta/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/keshav456mehta/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/keshav456mehta/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/keshav456mehta/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshav456mehta/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/keshav456mehta/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
