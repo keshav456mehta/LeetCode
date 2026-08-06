@@ -6,6 +6,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keshav456mehta/LeetCode/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -202,6 +205,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -237,4 +241,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
