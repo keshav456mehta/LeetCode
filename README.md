@@ -6,6 +6,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +95,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/keshav456mehta/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/keshav456mehta/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
