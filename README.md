@@ -8,6 +8,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keshav456mehta/LeetCode/tree/master/0877-stone-game) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -98,6 +100,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -149,6 +152,7 @@
 | [0056-merge-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/keshav456mehta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -213,6 +217,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -252,6 +257,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -260,4 +266,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
