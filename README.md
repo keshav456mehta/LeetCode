@@ -39,6 +39,7 @@
 | [0877-stone-game](https://github.com/keshav456mehta/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/keshav456mehta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/keshav456mehta/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/keshav456mehta/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/keshav456mehta/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -67,6 +69,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/keshav456mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -190,6 +193,7 @@
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
