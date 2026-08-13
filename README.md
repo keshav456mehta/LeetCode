@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshav456mehta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav456mehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
@@ -123,6 +125,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshav456mehta/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshav456mehta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -327,4 +330,16 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshav456mehta/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
