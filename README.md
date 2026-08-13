@@ -62,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0647-palindromic-substrings](https://github.com/keshav456mehta/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -90,6 +92,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav456mehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
