@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/keshav456mehta/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshav456mehta/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/keshav456mehta/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/keshav456mehta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/keshav456mehta/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -228,6 +229,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/keshav456mehta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/keshav456mehta/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keshav456mehta/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/keshav456mehta/LeetCode/tree/master/1140-stone-game-ii) |
@@ -377,4 +379,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keshav456mehta/LeetCode/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/keshav456mehta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
