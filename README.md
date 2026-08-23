@@ -72,6 +72,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/keshav456mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/keshav456mehta/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keshav456mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -108,6 +109,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/keshav456mehta/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshav456mehta/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -228,6 +230,7 @@
 | [1406-stone-game-iii](https://github.com/keshav456mehta/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keshav456mehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/keshav456mehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/keshav456mehta/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav456mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/keshav456mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshav456mehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -324,6 +327,7 @@
 | [1406-stone-game-iii](https://github.com/keshav456mehta/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keshav456mehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/keshav456mehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/keshav456mehta/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keshav456mehta/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
