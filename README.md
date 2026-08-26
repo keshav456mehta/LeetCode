@@ -113,6 +113,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/keshav456mehta/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshav456mehta/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keshav456mehta/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/keshav456mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -127,6 +128,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/keshav456mehta/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/keshav456mehta/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keshav456mehta/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav456mehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
