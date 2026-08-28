@@ -121,6 +121,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/keshav456mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -270,6 +271,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/keshav456mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
