@@ -53,6 +53,7 @@
 | [3731-find-missing-elements](https://github.com/keshav456mehta/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshav456mehta/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/keshav456mehta/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/keshav456mehta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/keshav456mehta/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
