@@ -212,6 +212,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/keshav456mehta/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/keshav456mehta/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/keshav456mehta/LeetCode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshav456mehta/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/keshav456mehta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/keshav456mehta/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/keshav456mehta/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/keshav456mehta/LeetCode/tree/master/0509-fibonacci-number) |
