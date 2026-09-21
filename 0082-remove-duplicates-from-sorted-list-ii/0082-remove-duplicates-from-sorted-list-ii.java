@@ -11,25 +11,31 @@ class Solution
         dummy.next = head;
 
         ListNode prev = dummy;
-        ListNode curr = head;
+        ListNode slow = head;
+        ListNode fast = head.next;
 
-        while(curr != null)
+        while(fast != null)
         {
-            if(curr.next != null && curr.val == curr.next.val)
+            if(slow.val == fast.val)
             {
-                int duplicate = curr.val;
-
-                while(curr != null && curr.val == duplicate)
+                while(fast != null && slow.val == fast.val)
                 {
-                    curr = curr.next;
+                    fast = fast.next;
                 }
 
-                prev.next = curr;
+                prev.next = fast;
+                slow = fast;
+
+                if(fast != null)
+                {
+                    fast = fast.next;
+                }
             }
             else
             {
-                prev = prev.next;
-                curr = curr.next;
+                prev = slow;
+                slow = fast;
+                fast = fast.next;
             }
         }
 
