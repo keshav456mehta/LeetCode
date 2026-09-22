@@ -364,6 +364,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshav456mehta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/keshav456mehta/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/keshav456mehta/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -472,6 +473,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/keshav456mehta/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/keshav456mehta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0707-design-linked-list) |
 ## Tree
