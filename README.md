@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/keshav456mehta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/keshav456mehta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/keshav456mehta/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshav456mehta/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -361,6 +362,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keshav456mehta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/keshav456mehta/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav456mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -493,4 +495,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keshav456mehta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keshav456mehta/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
