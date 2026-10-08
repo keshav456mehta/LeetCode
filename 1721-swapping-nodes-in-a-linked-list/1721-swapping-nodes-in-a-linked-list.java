@@ -1,37 +1,20 @@
-class Solution
-{
-    public ListNode swapNodes(ListNode head, int k)
-    {
-        ListNode curr = head;
-        ListNode ccurr = head;
-
-        int count = 0;
-
-        // Find kth node from beginning
-        for(int i = 0; i < k - 1; i++)
-        {
-            curr = curr.next;
+class Solution {
+    public ListNode swapNodes(ListNode head, int k) {
+        ListNode node = head;
+        for (int i = 1; i < k; i++) {
+            node = node.next;
         }
 
-        // Count total nodes
-        while(ccurr != null)
-        {
-            count++;
-            ccurr = ccurr.next;
+        ListNode slow = node;
+        ListNode fast = head;
+        while (node.next != null) {
+            node = node.next;
+            fast = fast.next;
         }
 
-        // Find kth node from end
-        ccurr = head;
-
-        for(int i = 0; i < count - k; i++)
-        {
-            ccurr = ccurr.next;
-        }
-
-        // Swap values
-        int temp = curr.val;
-        curr.val = ccurr.val;
-        ccurr.val = temp;
+        int temp = fast.val;
+        fast.val = slow.val;
+        slow.val = temp;
 
         return head;
     }
