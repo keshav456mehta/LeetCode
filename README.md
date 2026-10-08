@@ -234,6 +234,7 @@
 | [0328-odd-even-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshav456mehta/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -332,6 +333,7 @@
 | [0647-palindromic-substrings](https://github.com/keshav456mehta/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1332-remove-palindromic-subsequences](https://github.com/keshav456mehta/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav456mehta/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/keshav456mehta/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshav456mehta/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
