@@ -241,6 +241,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/keshav456mehta/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshav456mehta/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshav456mehta/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/keshav456mehta/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/keshav456mehta/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/keshav456mehta/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keshav456mehta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Segment Tree
 |  |
