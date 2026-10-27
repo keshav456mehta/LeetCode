@@ -1,12 +1,13 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
 
         ListNode temp = head.next;
-        ListNode nHead = new ListNode(0);
-        ListNode curr = nHead;
+        ListNode nHead = temp;
 
         while (temp != null) {
-
             int sum = 0;
 
             while (temp.val != 0) {
@@ -14,12 +15,12 @@ class Solution {
                 temp = temp.next;
             }
 
-            curr.next = new ListNode(sum);
-            curr = curr.next;
-
+            nHead.val = sum;
             temp = temp.next;
+            nHead.next = temp;
+            nHead = nHead.next;
         }
 
-        return nHead.next;
+        return head.next;
     }
 }
