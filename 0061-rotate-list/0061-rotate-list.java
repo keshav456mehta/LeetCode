@@ -8,10 +8,10 @@ class Solution
             return head;
         }
 
-        int count = 0;
+        int count = 1;
         ListNode curr = head;
 
-        while(curr != null)
+        while(curr.next != null)
         {
             count++;
             curr = curr.next;
@@ -19,22 +19,26 @@ class Solution
 
         k = k % count;
 
-        for(int i = 0; i < k; i++)
+        if(k == 0)
         {
-            curr = head;
-            ListNode temp = null;
-
-            while(curr.next != null)
-            {
-                temp = curr;
-                curr = curr.next;
-            }
-
-            temp.next = null;
-            curr.next = head;
-            head = curr;
+            return head;
         }
 
-        return head;
+        curr.next = head;
+
+        int steps = count - k - 1;
+
+        ListNode newTail = head;
+
+        for(int i = 0; i < steps; i++)
+        {
+            newTail = newTail.next;
+        }
+
+        ListNode newHead = newTail.next;
+
+        newTail.next = null;
+
+        return newHead;
     }
 }
